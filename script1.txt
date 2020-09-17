@@ -1,0 +1,7 @@
+set x 10
+print x
+set a 12
+print a
+set b 14
+print b
+quit
